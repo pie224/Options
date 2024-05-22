@@ -36,5 +36,3 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Siéntete libre de abri
 Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
-
-¡No dudes en personalizar este README según tus necesidades y preferencias!
