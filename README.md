@@ -1,6 +1,6 @@
-# Options.sh
 ![Gif](gif.gif)
 
+# Options.sh
 Este repositorio contiene un script de shell llamado `options.sh`, diseñado para proporcionar un menú interactivo para varias opciones, como acceder a aplicaciones, configuraciones, un explorador de archivos y salir del programa.
 
 ## Descripción
