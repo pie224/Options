@@ -15,8 +15,14 @@ El script `options.sh` presenta un menú simple pero efectivo que permite al usu
 ## Uso
 
 1. Clona este repositorio en tu máquina local.
-2. Abre el script `options.sh` y cambia la configuracion a tu gusto.
-3. Ejecutalo en una terminal de shell.
+```
+git clone https://github.com/pie224/Options.git
+```
+3. Abre el script `options.sh` y cambia la configuracion a tu gusto.
+```
+vim options.sh
+```
+4. Ejecutalo en una terminal de shell.
 
 ```
 ./options.sh
