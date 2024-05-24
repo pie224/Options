@@ -129,10 +129,10 @@ show_config_firefox() {
 			kitty -e nvim ~/.mozilla/firefox/0qqe313l.default-release-1715720437116/chrome/userContent.css
 			;;
 		"Sweet-theme")
-			kitty -e nvim /home/pedro/.mozilla/firefox/0qqe313l.default-release-1715720437116/chrome/firefox-sweet-theme/theme/sweet-theme.css
+			kitty -e nvim ~/.mozilla/firefox/0qqe313l.default-release-1715720437116/chrome/firefox-sweet-theme/theme/sweet-theme.css
 			;;
 		"Colores")
-			kitty -e nvim /home/pedro/.mozilla/firefox/0qqe313l.default-release-1715720437116/chrome/firefox-sweet-theme/theme/colors/dark.css
+			kitty -e nvim ~/.mozilla/firefox/0qqe313l.default-release-1715720437116/chrome/firefox-sweet-theme/theme/colors/dark.css
 			;;
 		"Volver")
 			show_config_menu
@@ -149,10 +149,10 @@ show_config_otros() {
 
 	case "$otros_option" in
 		"Config_options")
-			kitty -e nvim /home/pedro/.config/polybar.old/polybar/saponauta/scripts/options.sh
+			kitty -e nvim ~/.config/polybar.old/polybar/saponauta/scripts/options.sh
 			;;
 		"Powermenu_config")
-			kitty -e nvim /home/pedro/.config/polybar.old/polybar/saponauta/scripts/powermenu.sh
+			kitty -e nvim ~/.config/polybar.old/polybar/saponauta/scripts/powermenu.sh
 			;;
 		"Ideas")
 			kitty -e nvim ~/Coding/ideas.txt
