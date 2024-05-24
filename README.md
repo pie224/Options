@@ -22,7 +22,7 @@ git clone https://github.com/pie224/Options.git
 ```
 cd Options
 ```
-4. Abre el script `options.sh` y cambia la configuracion a tu gusto.
+3. Abre el script `options.sh` y cambia la configuracion a tu gusto.
 ```
 vim options.sh
 ```
