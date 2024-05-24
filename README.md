@@ -18,17 +18,25 @@ El script `options.sh` presenta un menú simple pero efectivo que permite al usu
 ```
 git clone https://github.com/pie224/Options.git
 ```
-3. Abre el script `options.sh` y cambia la configuracion a tu gusto.
+2. Dirigete al directorio `Options/`
+```
+cd Options
+```
+4. Abre el script `options.sh` y cambia la configuracion a tu gusto.
 ```
 vim options.sh
 ```
-4. Ejecutalo en una terminal de shell.
+4. Dale permisos de ejecusion
+```
+chmod +x options.sh
+```
+5. Ejecutalo en una terminal de shell.
 
 ```
 ./options.sh
 ```
 
-4. Selecciona una de las opciones del menú utilizando las teclas de dirección y la tecla Enter.
+6. Selecciona una de las opciones del menú utilizando las teclas de dirección y la tecla Enter.
 
 ## Requisitos
 
