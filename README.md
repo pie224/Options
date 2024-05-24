@@ -15,8 +15,8 @@ El script `options.sh` presenta un menú simple pero efectivo que permite al usu
 ## Uso
 
 1. Clona este repositorio en tu máquina local.
-2. Abre el script y cambia la configuracion a tu gusto.
-3. Ejecuta el script `options.sh` en un terminal de shell.
+2. Abre el script `options.sh` y cambia la configuracion a tu gusto.
+3. Ejecutalo en una terminal de shell.
 
 ```
 ./options.sh
