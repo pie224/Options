@@ -39,8 +39,4 @@ vim options.sh
 
 Si deseas contribuir a este proyecto, ¡eres bienvenido! Siéntete libre de abrir un *pull request* con tus mejoras o correcciones.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ---
