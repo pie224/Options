@@ -12,7 +12,7 @@ El script `options.sh` presenta un menú simple pero efectivo que permite al usu
 - **Configuración**: Invoca un menú para ajustar la configuración, proporcionando al usuario opciones para personalizar el entorno según sus preferencias.
 - **Salir**: Termina la ejecución del script y sale del menú.
 
-## Uso
+## Instalacion
 
 1. Clona este repositorio en tu máquina local.
 ```
